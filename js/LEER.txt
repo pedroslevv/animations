@@ -1,0 +1,5 @@
+Para que el archivo funcione y no tire ese error de consola,
+Deberían correrlo en algún simulador de host, tipo apache por ejemplo.
+
+Nose porque extraño motivo no levanta bien si no es httpS.
+Cualquier duda me escriben, no hay drama.
